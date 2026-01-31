@@ -1,13 +1,13 @@
 <!-- Header with Typing Effect -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Hi,+I'm+Mahesh+Prasad+Sahu;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Architect+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Database+Wizard+%F0%9F%96%A5%EF%B8%8F;Always+Learning,+Always+Coding...;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Hi,+I'm+Mahesh+Prasad+Sahu;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Architect+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Database+Wizard+%F0%9F%96%A5%EF%B8%8F;Always+Learning,+Always+Coding...;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </h1>
 
-<!-- Tech Vibe Banner -->
+<!-- Aesthetic Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91ZGI4bXNnNHRodGZ5ZDh4b3Z4Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" style="border-radius: 10px;" alt="Matrix Code Animation">
+  <img src="https://media.giphy.com/media/7u7YoGKNv8EUA/giphy.gif" width="100%" style="border-radius: 10px;" alt="Aesthetic City">
 </div>
 
 <!-- Pacman Separator -->
@@ -30,11 +30,9 @@
 
 ---
 
-<!-- Trophies Section -->
+<!-- Activity Graph -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Mahesh's Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&hide_border=true" alt="Mahesh's Activity Graph" />
 </div>
 
 ---
@@ -81,20 +79,13 @@ user@mahesh-pc:~$ neofetch
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="Mahesh's Stats" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
-</div>
 
-<br/>
+[![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true)](https://github.com/YOUR_USERNAME)
 
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&fire=FF4500" alt="GitHub Streak" />
-  </a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/YOUR_USERNAME)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&fire=FF4500)](https://github.com/YOUR_USERNAME)
+
 </div>
 
 ---
@@ -126,5 +117,5 @@ user@mahesh-pc:~$ neofetch
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TqiwHbFBaZNYqY1gma/giphy.gif" width="100" alt="Bye">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
