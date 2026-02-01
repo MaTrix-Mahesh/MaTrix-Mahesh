@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=39FF14&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MaheshPrasadSahu&label=Profile%20Views&color=39FF14&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -71,23 +71,23 @@ I’m a developer focused on building **scalable web applications**, deploying t
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="170" alt="GitHub stats" />
+  <a href="https://github.com/MaheshPrasadSahu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaheshPrasadSahu&theme=github_dark" alt="GitHub stats" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="170" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak" />
+  <a href="https://github.com/MaheshPrasadSahu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaheshPrasadSahu&theme=github_dark" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&bg_color=0d1117&hide_border=true" alt="Activity graph" />
+  <a href="https://github.com/MaheshPrasadSahu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaheshPrasadSahu&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaheshPrasadSahu">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshPrasadSahu&theme=radical&bg_color=0d1117&hide_border=true" alt="Activity graph" />
   </a>
 </p>
 
