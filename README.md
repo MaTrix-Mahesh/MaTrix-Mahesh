@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaheshPrasadSahu&label=Profile%20Views&color=39FF14&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MaTrix-Mahesh&label=Profile%20Views&color=39FF14&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -68,26 +68,34 @@ I’m a developer focused on building **scalable web applications**, deploying t
 
 ---
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=MaTrix-Mahesh&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
+</p>
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/MaheshPrasadSahu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaheshPrasadSahu&theme=github_dark" alt="GitHub stats" />
+  <a href="https://github.com/MaTrix-Mahesh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaTrix-Mahesh&theme=github_dark" alt="GitHub stats" />
   </a>
-  <a href="https://github.com/MaheshPrasadSahu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaheshPrasadSahu&theme=github_dark" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MaheshPrasadSahu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaheshPrasadSahu&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+  <a href="https://github.com/MaTrix-Mahesh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaTrix-Mahesh&theme=github_dark" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaheshPrasadSahu">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshPrasadSahu&theme=radical&bg_color=0d1117&hide_border=true" alt="Activity graph" />
+  <a href="https://github.com/MaTrix-Mahesh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaTrix-Mahesh&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaTrix-Mahesh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaTrix-Mahesh&theme=radical&bg_color=0d1117&hide_border=true" alt="Activity graph" />
   </a>
 </p>
 
