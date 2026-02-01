@@ -1,7 +1,7 @@
 <!-- Header with Typing Effect -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Hi,+I'm+Mahesh+Prasad+Sahu;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Architect+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Database+Wizard+%F0%9F%96%A5%EF%B8%8F;Always+Learning,+Always+Coding...;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Hi,+I'm+Mahesh+Prasad+Sahu;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Architect+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Database+Wizard+%F0%9F%96%A5%EF%B8%8F;Turning+Coffee+Into+Code...;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="50" alt="Pacman">
 </div>
 
-<h3 align="center">� <span style="color: #39FF14">Web Development</span> | ☁️ <span style="color: #00BFFF">Cloud Computing</span> | 🗄️ <span style="color: #FF00FF">Databases</span></h3>
+<h3 align="center">💻 <span style="color: #39FF14">Web Development</span> | ☁️ <span style="color: #00BFFF">Cloud Computing</span> | 🗄️ <span style="color: #FF00FF">Databases</span></h3>
 
 <p align="center">
   <a href="mailto:shamahesh615@gmail.com">
@@ -37,7 +37,34 @@
 
 ---
 
-## 👨‍💻 System Status: *Online*
+## 👨‍💻 About Me
+
+<div align="center">
+<table>
+  <tr>
+    <td valign="center" width="50%">
+      <br/>
+      <p>
+        Hi there! 👋 I'm <b>Mahesh Prasad Sahu</b>, a passionate developer from India. I have a knack for turning complex problems into simple, beautiful, and intuitive designs. 
+      </p>
+      <p>
+        🔭 <b>I’m currently working on:</b> Scalable Web Apps & Cloud Architecture.<br/>
+        🌱 <b>I’m currently learning:</b> Advanced Microservices, AI Integration, and DevOps best practices.<br/>
+        👯 <b>I’m looking to collaborate on:</b> Open Source projects and innovative tech startups.<br/>
+        💬 <b>Ask me about:</b> React, Node.js, AWS, and Database Optimization.<br/>
+        ⚡ <b>Fun fact:</b> I think I am funny (my code disagrees sometimes).
+      </p>
+    </td>
+    <td valign="center" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+### 💻 System Status: *Online*
 
 ```bash
 user@mahesh-pc:~$ neofetch
@@ -59,17 +86,18 @@ user@mahesh-pc:~$ neofetch
 ## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d9dca-19f6-42ef-9a57-b9e30cb1ea48.gif" width="100" alt="Tools">
+  <br/>
 
 | **Frontend Core** | **Backend & API** | **Data & Cloud** | **Tools & DevOps** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,jest" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,firebase" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,jest,python" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,firebase" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" /> |
 
 </div>
 
 <br/>
 
 <!-- Animated Pacman Eating Contribution Graph Placeholder -->
-<!-- Note: This requires a GitHub Action to work dynamically, but here is the visual representation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-70498b0c-9a2e-432d-905e-5768802951e7.gif" width="100%" alt="Snake Animation" />
 </div>
@@ -119,3 +147,7 @@ user@mahesh-pc:~$ neofetch
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/U6uOwbJ4K4vV9jZq9L/giphy.gif" width="200" alt="Coding Bot">
+</div>
