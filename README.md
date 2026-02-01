@@ -1,153 +1,105 @@
-<!-- Header with Typing Effect -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Hi,+I'm+Mahesh+Prasad+Sahu;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Architect+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Database+Wizard+%F0%9F%96%A5%EF%B8%8F;Turning+Coffee+Into+Code...;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</h1>
+# Hi, I'm Mahesh Prasad Sahu
 
-<!-- Aesthetic Banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/7u7YoGKNv8EUA/giphy.gif" width="100%" style="border-radius: 10px;" alt="Aesthetic City">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+Web+%2B+Cloud+%2B+Databases;Building+scalable%2C+clean%2C+user-friendly+apps;Node.js+%2B+React+%2B+MongoDB+%2B+AWS;Open+to+collaboration+and+learning" alt="Typing intro" />
+</p>
 
-<!-- Pacman Separator -->
-<div align="center">
-  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="50" alt="Pacman">
-  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="50" alt="Pacman">
-  <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="50" alt="Pacman">
-</div>
-
-<h3 align="center">💻 <span style="color: #39FF14">Web Development</span> | ☁️ <span style="color: #00BFFF">Cloud Computing</span> | 🗄️ <span style="color: #FF00FF">Databases</span></h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="560" alt="Coding" />
+</p>
 
 <p align="center">
   <a href="mailto:shamahesh615@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shamahesh615%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=red&labelColor=101010" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-shamahesh615%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
   </a>
-  <a href="#connect-with-me">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Status" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-</p>
-
----
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&bg_color=0d1117&color=39FF14&line=39FF14&point=FFFFFF&hide_border=true" alt="Mahesh's Activity Graph" />
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<div align="center">
-<table>
-  <tr>
-    <td valign="center" width="50%">
-      <br/>
-      <p>
-        Hi there! 👋 I'm <b>Mahesh Prasad Sahu</b>, a passionate developer from India. I have a knack for turning complex problems into simple, beautiful, and intuitive designs. 
-      </p>
-      <p>
-        🔭 <b>I’m currently working on:</b> Scalable Web Apps & Cloud Architecture.<br/>
-        🌱 <b>I’m currently learning:</b> Advanced Microservices, AI Integration, and DevOps best practices.<br/>
-        👯 <b>I’m looking to collaborate on:</b> Open Source projects and innovative tech startups.<br/>
-        💬 <b>Ask me about:</b> React, Node.js, AWS, and Database Optimization.<br/>
-        ⚡ <b>Fun fact:</b> I think I am funny (my code disagrees sometimes).
-      </p>
-    </td>
-    <td valign="center" width="50%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
-### 💻 System Status: *Online*
-
-```bash
-user@mahesh-pc:~$ neofetch
-
-      :::       user: Mahesh Prasad Sahu
-    :::::::     role: Full Stack Developer
-   :::::::::    os: Web / Cloud / Data
-   :::::::::    shell: zsh 5.8
-    :::::::     uptime: 24/7
-      :::       skills: [JS, React, Node, AWS, MongoDB]
-                focus: Scalability & Performance
-                hobby: Coding & Coffee ☕
-```
-
-> "I build things for the web, focusing on **performance**, **scalability**, and **user experience**."
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d9dca-19f6-42ef-9a57-b9e30cb1ea48.gif" width="100" alt="Tools">
-  <br/>
-
-| **Frontend Core** | **Backend & API** | **Data & Cloud** | **Tools & DevOps** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,jest,python" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,firebase" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" /> |
-
-</div>
-
-<br/>
-
-<!-- Animated Pacman Eating Contribution Graph Placeholder -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-70498b0c-9a2e-432d-905e-5768802951e7.gif" width="100%" alt="Snake Animation" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true)](https://github.com/YOUR_USERNAME)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/YOUR_USERNAME)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&fire=FF4500)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:shamahesh615@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_PROFILE">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/YOUR_PROFILE">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://facebook.com/YOUR_PROFILE">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK">
+    <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=39FF14&style=flat" alt="Profile views" />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/U6uOwbJ4K4vV9jZq9L/giphy.gif" width="200" alt="Coding Bot">
-</div>
+---
+
+## About Me
+
+I’m a developer focused on building **scalable web applications**, deploying them on **cloud platforms**, and designing reliable **database-backed systems**. I enjoy working across the stack—from crafting clean UI experiences to building secure APIs and optimizing performance.
+
+- I build with a strong focus on **clean architecture**, **readability**, and **real-world maintainability**.
+- I like projects that involve **cloud deployment**, **API design**, and **data modeling**.
+- I’m open to **collaborations**, **freelance work**, and **open-source contributions**.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,aws,git,github&theme=dark" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+</p>
+
+---
+
+## What I’m Into
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="Tech vibe" />
+</p>
+
+- Designing modern UIs with **React** and clean component patterns
+- Building APIs with **Node.js / Express** (auth, validation, error handling)
+- Working with **MongoDB** (schema design, indexing, aggregation)
+- Deploying and scaling on **AWS** (reliable, production-minded setups)
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="170" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="170" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&bg_color=0d1117&hide_border=true" alt="Activity graph" />
+  </a>
+</p>
+
+---
+
+## Let’s Build Something
+
+If you have an idea, a project, or a collaboration in mind, feel free to reach out.
+
+- Email: `shamahesh615@gmail.com`
+- LinkedIn: `https://www.linkedin.com/in/YOUR_LINKEDIN`
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+</p>
