@@ -1,4 +1,5 @@
 import Property from '../models/Property.js';
+import { uploadBufferToCloudinary } from '../utils/cloudinary.js';
 
 // @desc    Get all properties (with filtration)
 // @route   GET /api/properties
@@ -48,12 +49,15 @@ export const getPropertyById = async (req, res) => {
 export const createProperty = async (req, res) => {
     try {
         const { title, price, location, description, facilities, images } = req.body;
-        // In reality, images might come from req.files if utilizing multer-cloudinary directly in route.
-        // Assuming images are uploaded and URLs are passed for now, or we can handle req.files map here.
         
         let imageUrls = images || [];
         if (req.files && req.files.length > 0) {
-            imageUrls = req.files.map(file => file.path); // Cloudinary paths
+            const uploads = await Promise.all(
+                req.files.map((file) =>
+                    uploadBufferToCloudinary(file.buffer, { folder: 'house_rent_platform' })
+                )
+            );
+            imageUrls = uploads.map((r) => r.secure_url);
         }
 
         const property = new Property({
@@ -94,7 +98,12 @@ export const updateProperty = async (req, res) => {
             property.facilities = facilities ? (Array.isArray(facilities) ? facilities : [facilities]) : property.facilities;
             
             if (req.files && req.files.length > 0) {
-                property.images = req.files.map(file => file.path);
+                const uploads = await Promise.all(
+                    req.files.map((file) =>
+                        uploadBufferToCloudinary(file.buffer, { folder: 'house_rent_platform' })
+                    )
+                );
+                property.images = uploads.map((r) => r.secure_url);
             }
 
             const updatedProperty = await property.save();

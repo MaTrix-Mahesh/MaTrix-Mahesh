@@ -1,7 +1,7 @@
 import { v2 as cloudinary } from 'cloudinary';
-import { CloudinaryStorage } from 'multer-storage-cloudinary';
 import multer from 'multer';
 import dotenv from 'dotenv';
+import streamifier from 'streamifier';
 
 dotenv.config();
 
@@ -11,14 +11,31 @@ cloudinary.config({
     api_secret: process.env.CLOUDINARY_API_SECRET
 });
 
-const storage = new CloudinaryStorage({
-    cloudinary,
-    params: {
-        folder: 'house_rent_platform',
-        allowed_formats: ['jpg', 'png', 'jpeg', 'webp']
+const upload = multer({
+    storage: multer.memoryStorage(),
+    limits: { fileSize: 5 * 1024 * 1024 }, // 5MB per file
+    fileFilter: (req, file, cb) => {
+        const allowed = ['image/jpeg', 'image/png', 'image/webp'];
+        if (!allowed.includes(file.mimetype)) return cb(new Error('Only jpg/png/webp images are allowed'));
+        cb(null, true);
     }
 });
 
-const upload = multer({ storage });
+export const uploadBufferToCloudinary = (buffer, { folder }) => {
+    return new Promise((resolve, reject) => {
+        const uploadStream = cloudinary.uploader.upload_stream(
+            {
+                folder,
+                resource_type: 'image'
+            },
+            (error, result) => {
+                if (error) return reject(error);
+                resolve(result);
+            }
+        );
+
+        streamifier.createReadStream(buffer).pipe(uploadStream);
+    });
+};
 
 export { cloudinary, upload };
