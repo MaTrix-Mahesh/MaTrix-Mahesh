@@ -1,16 +1,26 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MaTrix-Mahesh/MaTrix-Mahesh/main/assets/wave.svg" width="50" alt="wave" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FUTURISTIC HERO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-# MAHESH PRASAD SAHU
-
-### 🚀  Full-Stack Developer | MERN Specialist | Open Source Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;Creative+Problem+Solver;UI%2FUX+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:071A2F,100:00E5FF&height=220&section=header&text=MAHESH%20PRASAD%20SAHU&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20SPECIALIST&descAlignY=60&descSize=18&descColor=00E5FF" width="100%" alt="Hero Banner"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,24&height=120&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&height=55&lines=Building+Modern+Web+Experiences;MERN+Stack+Specialist;Creative+Problem+Solver;UI%2FUX+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing Animation"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=650&height=35&lines=Turning+Ideas+Into+Scalable+Digital+Products+%E2%9A%A1;Code+%7C+Create+%7C+Deploy+%7C+Repeat+%F0%9F%9A%80" alt="Developer Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:0066FF,100:7A00FF&height=3&section=header" width="70%" alt="Divider"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MaTrix-Mahesh&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
