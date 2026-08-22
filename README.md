@@ -132,7 +132,7 @@ Developer:
 
 <br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaTrix-Mahesh&theme=dark&hide_border=true&background=050816&stroke=00E5FF&ring=00E5FF&fire=FF4D00&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
+<img src="https://streak-stats.demolab.com?user=MaTrix-Mahesh&theme=dark&hide_border=true&background=050816&stroke=00E5FF&ring=00E5FF&fire=FF4D00&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -148,7 +148,7 @@ Developer:
 
 <div align="center">
 
-<img src="https://github-profile-trophy-unserori.vercel.app/?username=MaTrix-Mahesh&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=MaTrix-Mahesh&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
