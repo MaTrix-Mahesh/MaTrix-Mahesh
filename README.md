@@ -132,7 +132,7 @@ Developer:
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaTrix-Mahesh&theme=dark&hide_border=true&background=050816&stroke=00E5FF&ring=00E5FF&fire=FF4D00&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaTrix-Mahesh&theme=dark&hide_border=true&background=050816&stroke=00E5FF&ring=00E5FF&fire=FF4D00&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
 
 <br/><br/>
 
